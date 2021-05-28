@@ -1,0 +1,4 @@
+-- r6_trigger5.sql
+SELECT * 
+FROM TRAVAILLER
+WHERE MATRICULE =7100;

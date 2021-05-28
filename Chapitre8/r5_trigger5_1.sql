@@ -1,0 +1,4 @@
+-- r5_trigger5.sql
+SELECT COUNT(*) 
+FROM PROJET 
+WHERE NUMPROJ = 70;

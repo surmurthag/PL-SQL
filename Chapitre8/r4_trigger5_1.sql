@@ -1,0 +1,4 @@
+-- r4_trigger5.sql
+SELECT COUNT(*) 
+FROM DEPARTEMENT 
+WHERE NUMDEPT = 60;

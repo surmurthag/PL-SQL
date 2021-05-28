@@ -1,0 +1,4 @@
+-- r3_trigger5.sql
+SELECT COUNT(*) 
+FROM EMPLOYE 
+WHERE MATRICULE = 7100;
